@@ -1,0 +1,11 @@
+.goalButton {
+    width: 100%;
+    background-color: purple;
+    color: white;
+    margin: 4px;
+    text-align: left;
+}
+
+.goalButton:hover {
+    cursor: pointer;
+}

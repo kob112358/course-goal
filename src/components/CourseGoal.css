@@ -1,0 +1,12 @@
+.add-goal {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    box-shadow: 5px 5px;
+    border: .5px solid grey;
+    padding: 5%;
+}
+
+.add-goal__input {
+    height: 40%;
+}
